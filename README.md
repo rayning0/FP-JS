@@ -1,4 +1,5 @@
-
+Functional Programming in JavaScript
+The code to go with my code camp talk 14 November 2015.
 
 Many of the ideas are from the book, 
   "The Magical World of Functional Programming: Part 1: Thinking Functionally" 
